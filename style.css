@@ -1,0 +1,45 @@
+body {
+    background: plum;
+}
+
+h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    padding: 2%;
+    font-size: 40pt;
+}
+
+.jumbotron {
+    background: white;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+textarea {
+    height: 100pt;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-color:  lightgrey;
+    border-style: dashed;
+    border-width: medium;
+}
+
+#Generate-Password-Btn {
+    float: left;
+    margin-left: 0%;
+}
+
+#copy-clipboard-Btn {
+    float: left;
+    margin-left: 40%
+}
+
+@media only screen and (max-width: 600px) {
+    #copy-clipboard-Btn {
+        float: left;
+        margin-left: 10%
+    }
+  }

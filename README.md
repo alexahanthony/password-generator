@@ -1,6 +1,10 @@
 # Password Generator
 
+<<<<<<< HEAD
 ![alt text](./assets/screenshot.png)
+=======
+![] (assets/Screen%20Shot%202019-12-01%20at%204.59.48%20PM.png)
+>>>>>>> ce4c3fd4ace6924d71fc98af89edc3d4ddbb6b2b
 
 # Table of Contents (Optional)
 N/A

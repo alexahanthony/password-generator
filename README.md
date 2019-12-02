@@ -1,5 +1,7 @@
 # Password Generator
 
+![] (assets/Screen%20Shot%202019-12-01%20at%204.59.48%20PM.png)
+
 # Table of Contents (Optional)
 N/A
 

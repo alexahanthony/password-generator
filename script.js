@@ -105,8 +105,3 @@ function copyToClipboard() {
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 copyBtn.addEventListener("click", copyToClipboard);
-
-
-// Your application should have a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
-// Your application should be deployed to GitHub Pages.
-// Your application's GitHub repository should contain a README.md file explaining the purpose and functionality of the application. The README.md file should include a screenshot of the completed application as well as a link to the deployed GitHub Pages URL.

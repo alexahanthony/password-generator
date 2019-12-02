@@ -1,5 +1,6 @@
 body {
     background: plum;
+    min-width: 300px;
 }
 
 h1 {
@@ -27,19 +28,32 @@ textarea {
     border-width: medium;
 }
 
+.button-div {
+display: flex;
+justify-content: space-between;
+}
+
 #Generate-Password-Btn {
-    float: left;
-    margin-left: 0%;
+    padding: 0%;
 }
 
 #copy-clipboard-Btn {
-    float: left;
-    margin-left: 40%
+    padding: 0%;
+    
 }
 
-@media only screen and (max-width: 600px) {
-    #copy-clipboard-Btn {
-        float: left;
-        margin-left: 10%
+/* @media only screen and (max-width: 678px) {
+    body {
+      background-color: lightblue;
     }
-  }
+    #Generate-Password-Btn {
+        width: 5px;
+        color: pink;
+    }
+    
+    #copy-clipboard-Btn {
+        width: 5px;
+        color: orange;
+        
+    }
+  } */

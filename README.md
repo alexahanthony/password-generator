@@ -1,5 +1,7 @@
 # Password Generator
 
+![alt text](./assets/screenshot.png)
+
 # Table of Contents (Optional)
 N/A
 
